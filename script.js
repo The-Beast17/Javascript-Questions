@@ -946,16 +946,6 @@
         }
     }
     console.log(idx);
-/*
-63- Binary Search. If element found print the index else -1\
-64- Bubble Sort. \
-65- Move all the negative elements on left side and positive elements on right side O(n).\
-66- Print the count of subarrays whose sum is equal to the target.\
-	Ex - \{1,2,3,7,5\}, T = 12  O/P - 2 - [ \{2,3,7\}, \{7,5\} ] - Both the subarrays has sum 12 \
-67- Strong number using methods\
-68- Special number using methods.\
-69- Leetcode 1929 - Concatenation of array \
-70- Leetcode 1920 - Build Array from Permutation\
-*/
+
      
 
